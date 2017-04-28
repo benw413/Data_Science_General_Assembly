@@ -17,5 +17,5 @@ Series 3: Logistic Regression with pipelines: How to automate workflow.
 In this third and final jupyter notebook I will demonstrate how to use pipelines to allow for workflow to be reproducible. I will also upload this final dataset to Kaggle.com
 
 
-I will continue to add more content to this ReadMe file as I continue to create new projects.
+I will continue to add more content to this ReadMe file as I continue to create new projects.  
 

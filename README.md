@@ -5,6 +5,7 @@ The first project I have posted in this repository is a series of three separate
 
 If you would like to learn more info about my Data Science Experience please feel free to check out my Blog at https://medium.com/@benweinstein_52172
 
+## Titanic Series Commits
 
 #### Series 1: Data Analysis with the Titanic
 This notebook uses pandas to explore, clean, analyze, and visualize basic information about the Titanic dataset and includes findings related to survival based on age, gender, class, and a host of other characteristics.
@@ -16,4 +17,14 @@ This is a step by step guide to cleaning a dataset, manipulating the features, c
 In this third and final jupyter notebook I will demonstrate how to use pipelines to allow for code to be re-useable. I will also upload this final dataset to Kaggle.com and report back a score. 
 
 
-I will continue to add more content to this ReadMe file as I continue to create new projects.  
+## Housing Prices 
+
+This project is a commit from the Kaggle Housing Prices competition. It is currently under contruction so check back in later for an
+update. 
+
+
+## Final Project: Predicting Time on Trail For Appalachian Trail Thru Hikers with Machine Learning
+
+
+
+
